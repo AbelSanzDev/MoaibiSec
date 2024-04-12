@@ -57,6 +57,7 @@ Script para entrenar un modelo de reconocimiento facial usando EigenFaces con im
 Instale las dependencias necesarias con pip:
 
 pip install numpy opencv-python
+pip install opencv-contrib-python
 
 # Uso
 
